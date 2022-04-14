@@ -115,6 +115,6 @@ Benchmarked on Feb 8, 2022 with `end2end-bench --benchmark_min_time=5` on a Rasp
 - [Alibaba HALO (Heterogeneity-Aware Lowering and Optimization)](https://github.com/alibaba/heterogeneity-aware-lowering-and-optimization)
 - [Samsung ONE (On-device Neural Engine)](https://github.com/Samsung/ONE)
 
-## Acknowledgements
+## Acknowledgements ## 
 
 XNNPACK is a based on [QNNPACK](https://github.com/pytorch/QNNPACK) library. Over time its codebase diverged a lot, and XNNPACK API is no longer compatible with QNNPACK.
